@@ -1,2 +1,2 @@
 # spring-cloud-config
-spring cloud config 2021.6.14 by WJ
+* 2021.06.14    初始化config
